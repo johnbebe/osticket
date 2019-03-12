@@ -1,5 +1,7 @@
 <?php
 /*********************************************************************
+  
+    Det virker sgu!   
     ost-config.php
 
     Static osTicket configuration file. Mainly useful for mysql login info.
